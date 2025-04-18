@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Sullayman!  
-### **Full-Stack Developer | Softwere Eganiner | Problem Solver**  
+### **Full-Stack Developer | Softwere Engineer | Problem Solver**  
 
 [![GitHub Followers](https://img.shields.io/github/followers/sullayman1?style=social)](https://github.com/sullayman1)
 [![X](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/@sullaymansamai1)
@@ -25,22 +25,16 @@
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://sullayman1.github.io/wdd230/index.html)
+![Simple Website](https://sullayman1.github.io/wdd230/index.html)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sullayman1&layout=compact&theme=dark)  
 
 ---
 
 ## 🏆 Featured Projects  
-1. **[Face Detection](https://github.com/sullayman1/Face-Detection)**  
-   - OpenCV-based face detection in Python.  
-   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)  
+ all my future project are confidencial and I am not allowed to add them here. 
 
-2. **[Tic-Tac-Toe](https://github.com/sullayman1/Tic-Tac-Toe)**  
-   - Classic game built with React.  
-   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)  
-
-*(Add more repos with descriptions!)*  
+  
 
 ---
 
