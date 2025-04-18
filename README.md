@@ -2,7 +2,7 @@
 ### **Full-Stack Developer | AI Enthusiast | Problem Solver**  
 
 [![GitHub Followers](https://img.shields.io/github/followers/sullayman1?style=social)](https://github.com/sullayman1)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/@sullayman samai)
+[![X](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/@sullaymansamai1)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sullayman1.sullayman1)](https://github.com/sullayman1)
 
 ---
