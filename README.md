@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Sullayman!  
-### **Full-Stack Developer | AI Enthusiast | Problem Solver**  
+### **Full-Stack Developer | Softwere Eganiner | Problem Solver**  
 
 [![GitHub Followers](https://img.shields.io/github/followers/sullayman1?style=social)](https://github.com/sullayman1)
 [![X](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/@sullaymansamai1)
@@ -16,11 +16,11 @@
 ---
 
 ## 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![HTML,CSS,JSON,NODE.JS,JavaScript](https://sullayman1.github.io/wdd230/index.html)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Python]
+![C#]
+![JavaScript]
+![MongoDB]
+![PHP]
 
 ---
 
@@ -44,7 +44,7 @@
 ---
 
 ## 📫 Let's Connect!  
-[![LinkedIn](https://linkedin.com/in/yourprofil](https://www.linkedin.com/in/sullayman-junior-samai-394839182?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfOpJ%2BnicRTuekiCBZLowXg%3D%3D)e)
+[![LinkedIn](https://www.linkedin.com/in/sullayman-junior-samai-394839182?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfOpJ%2BnicRTuekiCBZLowXg%3D%3D)e)
 [![X](@sullaymansamai1)
 [![Gmail](Sullaymansamai31@gmail.com)
 
