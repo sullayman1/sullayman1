@@ -32,7 +32,7 @@
 ---
 
 ## 🏆 Featured Projects  
- all my future project are confidencial and I am not allowed to add them here. 
+ all my featured project are confidencial and I am not allowed to add them here. 
 
   
 
