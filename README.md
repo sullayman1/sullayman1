@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sullayman1
 - 👀 I’m interested in ...Coading
 - 🌱 I’m currently learning ... Web and Computer Programing
-- 💞️ I’m looking to collaborate on ... HTML and CSS and JavaScript
+- 💞️ I’m looking to collaborate on ... HTML and CSS, Javascript,Node.js, Python, C#
 - 📫 How to reach me ... WhatsApp+23275213491
 
 <!---
