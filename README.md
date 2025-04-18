@@ -25,7 +25,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats]https://sullayman1.github.io/wdd230/index.html
+![Your GitHub Stats](https://sullayman1.github.io/wdd230/index.html)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sullayman1&layout=compact&theme=dark)  
 
 ---
