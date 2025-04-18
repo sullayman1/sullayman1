@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![HTML,CSS,JSON,NODE.JS,JavaScript](https://sullayman1.github.io/wdd230/index.html))
+![HTML,CSS,JSON,NODE.JS,JavaScript](https://sullayman1.github.io/wdd230/index.html)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -25,8 +25,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sullayman1&show_icons=true&theme=radical)  
-
+![Your GitHub Stats]https://sullayman1.github.io/wdd230/index.html
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sullayman1&layout=compact&theme=dark)  
 
 ---
@@ -45,8 +44,8 @@
 ---
 
 ## 📫 Let's Connect!  
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/yourprofil](https://www.linkedin.com/in/sullayman-junior-samai-394839182?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfOpJ%2BnicRTuekiCBZLowXg%3D%3D)e)
-[![X](Sullayman Samai)
+[![LinkedIn](https://linkedin.com/in/yourprofil](https://www.linkedin.com/in/sullayman-junior-samai-394839182?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfOpJ%2BnicRTuekiCBZLowXg%3D%3D)e)
+[![X](@sullaymansamai1)
 [![Gmail](Sullaymansamai31@gmail.com)
 
 ---
