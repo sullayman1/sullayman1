@@ -7,11 +7,26 @@
 
 ---
 
-## 🔥 About Me  
-- 💻 **Working on**: Full-stack projects & AI experiments.  
-- 🌱 **Learning**: Advanced React, Machine Learning, or DevOps.  
-- 🎯 **Goal**: Contribute to open-source & build impactful tools.  
-- ⚡ **Fun Fact**: I love chess ♟️ and coding challenges!  
+### 👋 Hi, I’m Sullayman Samai  
+**BYU-Idaho Software Development Student** | Passionate about **full-stack development, open source, and teaching tech**  
+
+🔭 **Currently:**  
+- Building projects with **Node.js, Python, C#/.NET, and MongoDB**  
+- Contributing to [Momivate](https://momivate.org/) and [Bountiful Children](https://bountifulchildren.org/) (NDA-protected work)  
+
+🌱 **Learning:**  
+- Advanced **software design patterns**  
+- **DevOps** (Docker, CI/CD)  
+
+💡 **Teaching Mindset:**  
+- Love breaking down complex concepts (check my [Coding for Beginners repo](https://github.com/sullayman1/Coding-for-Beginners-You-can-le...))  
+- Future CS instructor hopeful!  
+
+📫 **Let’s connect:**  
+- Email: [Sullaymansamai31@gmail.com]  
+- LinkedIn: [Sullayman Junior Samai]  
+
+🚀 **Fun fact:** I can debug code *and* cook a mean jollof rice!   
 
 ---
 
